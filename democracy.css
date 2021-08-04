@@ -13315,9 +13315,17 @@ body {
  color:#fff;
  background:rgb(68,148,211);
  font-family:"helvetica_bold";
- font-size:26px;
+ font-size:20px;
  letter-spacing:-.06px
 }
+@media screen and (min-device-width:600px) {
+    .ri-title-heading {
+       
+        font-size:26px;
+       
+       }
+   }
+
 .ri-subtitle-heading {
  display:inline-block;
  color:#000;
