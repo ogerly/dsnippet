@@ -1,10 +1,15 @@
-# [WIP] dsnippet
+#dsnippet
 
-first draft
-skeleton created 
+ 
 
-todo: 
-css 
+https://user-images.githubusercontent.com/1324583/128302511-18545b98-83da-4f51-bf98-8061bb0a3dae.mp4
 
-https://user-images.githubusercontent.com/1324583/128191381-e730be95-4f7a-4b82-806b-01fe2fd1f222.mp4
+
+
+https://user-images.githubusercontent.com/1324583/128302512-2ff1471d-0b74-43d5-93d2-9f037185923e.mp4
+
+
+
+https://user-images.githubusercontent.com/1324583/128302508-059d03b9-ddef-4084-b7b0-f2dbd19ff30f.mp4
+
 
