@@ -13319,12 +13319,10 @@ body {
  letter-spacing:-.06px
 }
 @media screen and (min-device-width:600px) {
-    .ri-title-heading {
-       
-        font-size:26px;
-       
-       }
-   }
+    .ri-title-heading {       
+        font-size:26px;       
+    }
+}
 
 .ri-subtitle-heading {
  display:inline-block;
