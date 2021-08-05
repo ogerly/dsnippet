@@ -13325,7 +13325,7 @@ body {
 }
 
 .ri-subtitle-heading {
- display:inline-block;
+ display:table;
  color:#000;
  padding:20px 40px 22px 22px;
  background:rgb(239,239,244);
